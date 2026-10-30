@@ -1,0 +1,3 @@
+# cross 0.2.5's own Android image has NDK r21, too old for current Rust
+[target.aarch64-linux-android]
+image = "ghcr.io/cross-rs/aarch64-linux-android@sha256:6395abf6fab3c8e6a40bec5a7e389b469594a29dea44c1c74bc20825798242a4"
