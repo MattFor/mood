@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.0.0] - 08:53 CEST 30-10-2026
 
 First release.
 
@@ -14,3 +14,5 @@ First release.
 - One JSON-lines log per computer and a `summary.json` rebuilt from them.
 - Logs in `$MOOD_DIR`, `~/syncthing/mood` when it exists, or `$XDG_DATA_HOME/mood`.
 - Prebuilt binaries for x86_64 Linux and aarch64 Android (Termux).
+
+[1.0.0]: https://github.com/MattFor/mood/releases/tag/v1.0.0
